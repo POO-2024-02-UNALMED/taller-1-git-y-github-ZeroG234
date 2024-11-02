@@ -1,2 +1,3 @@
 David Cerón. 24 años. Espero aprender sobre la programación orientada a objetos.
 La carpeta se subió correctamente en el repositorio principal.
+Porque Github no sabe cuál es la copia del archivo que debe seleccionar como definitivo
